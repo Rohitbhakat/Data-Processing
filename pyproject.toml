@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "data-rename"
+version = "0.1.0"
+description = ""
+authors = ["Rohitbhakat <60672520+Rohitbhakat@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.112.1"
+uvicorn = "^0.30.6"
+pandas = "^2.2.2"
+numpy = "^2.1.0"
+matplotlib = "^3.9.2"
+scikit-learn = "^1.5.1"
+sqlalchemy = "^2.0.32"
+black = "^24.8.0"
+seaborn = "^0.13.2"
+python-multipart = "^0.0.9"
+isort = "^5.13.2"
+orjson = "^3.10.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
