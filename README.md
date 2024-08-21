@@ -19,4 +19,8 @@ Setup Process ---
 
 API to check swagger - http://localhost:8000/docs
 
+Test Results
+Upload
 
+Data visualization of a column using Swagger
+![image](https://github.com/user-attachments/assets/1e0a28fe-470c-43e2-8baf-f9990922f489)
